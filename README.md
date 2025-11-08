@@ -1,6 +1,6 @@
 # EDA_Project
 1. Project Topic & Goal :
-   Analyses is about video game sales data with a focus on the European market . The goal is to solve a real-world data problem by defining a hypothesis.
+   Analysis is about video game sales data with a focus on the European market . The goal is to solve a real-world data problem by defining a hypothesis.
 
 2. Hypothesis :
   In Europe, PlayStation platforms have been the most dominant. I predict that 'Sports' like FIFA and 'Action' genres like Grand Theft Auto are the highest-selling genres in this region.
