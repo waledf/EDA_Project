@@ -7,3 +7,7 @@
 
 3. Data Source :
   Global Video Game Sales (vgsales.csv) - Kaggle and other data repositories. It contains a list of video games with sales broken down by region, including Europe.
+
+4. Web Scraping :
+   Implemented a script to scrape 'best-selling consoles' from Wikipedia, cleaned the raw text data, and merged it with the dataset to validate sales figures.
+   Extracted data from : https://en.wikipedia.org/wiki/List_of_best-selling_game_consoles
